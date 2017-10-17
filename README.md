@@ -1,1 +1,2 @@
-# blog
+# Kaola blog
+kaola writes fanfics.
